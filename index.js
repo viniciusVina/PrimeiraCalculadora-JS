@@ -32,6 +32,7 @@ function outcome() {
         }
     }
 
+    //limpar os inputs
     limparCampo();
 }
 
