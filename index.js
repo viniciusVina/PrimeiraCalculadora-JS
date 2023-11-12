@@ -34,6 +34,8 @@ function outcome() {
 
     limparCampo();
 }
+
+//limpar os campos do input que o suuario colocar quando calcular
 function limparCampo() {
     document.getElementById('num-one').value = '';
     document.getElementById('num-two').value = '';
